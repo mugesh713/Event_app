@@ -70,5 +70,6 @@ npx react-native run-ios
 ---
 
 ## 📲 Demo
-![Add Event](https://github.com/user-attachments/assets/e57174be-1f6e-4548-b72e-1932becb70fa)
+![Admin login_Admin Signup_Student login_Student Signup](https://github.com/user-attachments/assets/635216d9-7850-4156-ba24-a675cf377eb0)
+
 
