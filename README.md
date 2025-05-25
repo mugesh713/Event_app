@@ -73,3 +73,7 @@ npx react-native run-ios
 ![Admin login_Admin Signup_Student login_Student Signup](https://github.com/user-attachments/assets/635216d9-7850-4156-ba24-a675cf377eb0)
 
 
+![Add Event_ADD_Edit_New Event](https://github.com/user-attachments/assets/051a8019-72ad-4abf-910b-e933fd4cc57c)
+
+
+
