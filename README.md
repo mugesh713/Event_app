@@ -6,12 +6,6 @@ Here's a professional and well-structured GitHub README template for your **Even
 
 A real-time event update mobile application built using **React Native**, **Firebase**, and **MySQL**. This app enables educational institutions to create, manage, and share events effortlessly, with secure user authentication and instant notifications.
 
----
-
-![App Screenshot](path_to_your_image.png)
-*Replace `path_to_your_image.png` with the actual path to your image or use a hosted link (e.g., from Imgur or Firebase Storage).*
-
----
 
 ## 🚀 Features
 
@@ -29,18 +23,6 @@ A real-time event update mobile application built using **React Native**, **Fire
 * **Backend**: Firebase (Auth, Cloud Messaging)
 * **Database**: MySQL
 * **Notification Service**: Firebase Cloud Messaging (FCM)
-
----
-
-## 📸 Screenshots
-
-You can include multiple images like this:
-
-| Home Screen                     | Event Details                     | Notification                                    |
-| ------------------------------- | --------------------------------- | ----------------------------------------------- |
-| ![Home](path_to_home_image.png) | ![Event](path_to_event_image.png) | ![Notification](path_to_notification_image.png) |
-
----
 
 ## 📦 Installation
 
